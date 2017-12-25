@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-project
 
 > A Vue.js project
@@ -31,3 +32,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 # commit train file
+=======
+# vue_learn
+>>>>>>> 0ab02c3467e1eb85ab7cc7d3293aad001172aee8
